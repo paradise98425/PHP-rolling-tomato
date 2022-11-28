@@ -1,0 +1,17 @@
+html,
+body {
+	height: 100%;
+	margin: 0px;
+}
+
+main {
+	height: 100%;
+}
+
+section {
+	height: 100%;
+}
+
+#map {
+	height: 100%;
+}

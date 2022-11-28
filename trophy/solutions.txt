@@ -1,0 +1,18 @@
+1. FIX OUT CODE 
+        Solution 1: 
+            1. needed to have "php" after <? on both the index.php and map-stuff.php file
+                /********************************/
+                By the way, brief open tags are allowed. (However, it is discouraged because it is by 
+                default deactivated and can only be utilized after changing the php.ini configuration file.)
+                /*********************************/
+            2. had an unnecessary ";" on return statement of  geoJson function.
+
+        Solution 2:
+            the way coordinates were supplied were simply inverted as 
+                    Leaflet expects [latitude, longitude] order
+                    GeoJSON expects [longitude, latitude] order
+                Since we are using GeoJSON data format, they should be altered to have  ['.$lon1.', '.$lat1.'],
+
+        Solution 3: 
+            body tag with class name by default had margin as 8px, it had be set to 0 margin. 
+
