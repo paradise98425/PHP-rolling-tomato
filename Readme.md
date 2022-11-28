@@ -1,6 +1,4 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////
-INCASE YOU NEED ANY HELP AND WOULD LIKE TO TALK TO THE AUTHOR, EMAIL AT: katelroshan13@gmail.com
-/////////////////////////////////////////////////////////////////////////////////////////////////
+/**************************************************************************************************************/
 
 TIME SPENT:
 
@@ -14,6 +12,8 @@ TIME SPENT:
         1. AROUND 1 HOUR -  TO UNDERSTAND THE LEAFLET MAP AND ITS MARKERS, ETC
         2. NEXT 1 HOUR - TO MOVE THE OBJECT WITH ARROW KEYS AT SPECIFIC SPEED
         3. NEXT 2 HOURS - TO CREATE THE DATABAES, CONNECTION TO IT AND IMPLEMENT FUNCTIONALITIES TO QUERY.
+
+/***************************************************************************************************************/
 
 RUNNING THE PROJECT:
 
@@ -47,3 +47,6 @@ RUNNING THE PROJECT:
 
 2.  SIMPLY OPEN THE FILES IN YOU BROWESER AS HOW YOU WOULD RUN A PHP PROGRAM.
 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+INCASE YOU NEED ANY HELP AND WOULD LIKE TO TALK TO THE AUTHOR, EMAIL AT: katelroshan13@gmail.com
+/////////////////////////////////////////////////////////////////////////////////////////////////
